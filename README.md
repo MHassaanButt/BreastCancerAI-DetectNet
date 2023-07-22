@@ -22,20 +22,18 @@ These metrics give us a better understanding of true positives, true negatives, 
 
 ## Confusion Matrix
 The Confusion Matrix is a crucial metric for analyzing misclassifications. Each row of the matrix represents instances in a predicted class, while each column represents instances in the actual class. The diagonals represent the classes that have been correctly classified, which allows us to identify the classes that are being misclassified and the classes to which they are misclassified.
-
 ![ETA_Confusion_Matrix](https://github.com/MHassaanButt/BreastCancerAI-DetectNet/assets/30599669/6dea4aab-3354-458f-8f13-0f7d82614328)
-
 ## Classification Report
 
 The classification report provides a comprehensive summary of various performance metrics for the model, including precision, recall, and F1-score, for both classes (malignant and benign). It gives a quick overview of the model's overall performance.
 
 ### Classification Report:
-          precision    recall  f1-score   support
+| Class | Precision | Recall | F1-Score |
+|-------|-----------|--------|---------|
+| 0     | 0.99      | 0.85   | 0.91    |
+| 1     | 0.87      | 0.99   | 0.92    |
 
-       0       0.99      0.85      0.91       250
-       1       0.87      0.99      0.92       250
-
-accuracy                           0.92       500
+- **Accuracy**: 0.92
 
 
 ## Contributions
