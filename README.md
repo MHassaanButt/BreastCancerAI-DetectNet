@@ -1,4 +1,4 @@
-# BreastCancerAI-DetectNet
+![ETA_Confusion_Matrix](https://github.com/MHassaanButt/BreastCancerAI-DetectNet/assets/30599669/5a982d47-38a0-49f3-9d78-5f2038743f6b)# BreastCancerAI-DetectNet
 
 ## Description
 BreastCancerAI-DetectNet is an AI-powered breast cancer detection algorithm that leverages the power of EANet (External Attention Transformer) for image classification. The goal of this project is to automatically identify whether a patient is suffering from breast cancer or not by analyzing biopsy images.
@@ -23,12 +23,13 @@ These metrics give us a better understanding of true positives, true negatives, 
 ## Confusion Matrix
 The Confusion Matrix is a crucial metric for analyzing misclassifications. Each row of the matrix represents instances in a predicted class, while each column represents instances in the actual class. The diagonals represent the classes that have been correctly classified, which allows us to identify the classes that are being misclassified and the classes to which they are misclassified.
 
-## Classification Report
+![ETA_Confusion_Matrix](https://github.com/MHassaanButt/BreastCancerAI-DetectNet/assets/30599669/6dea4aab-3354-458f-8f13-0f7d82614328)
 
+## Classification Report
 
 The classification report provides a comprehensive summary of various performance metrics for the model, including precision, recall, and F1-score, for both classes (malignant and benign). It gives a quick overview of the model's overall performance.
 
-### Example Classification Report:
+### Classification Report:
           precision    recall  f1-score   support
 
        0       0.99      0.85      0.91       250
