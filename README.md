@@ -1,4 +1,4 @@
-![ETA_Confusion_Matrix](https://github.com/MHassaanButt/BreastCancerAI-DetectNet/assets/30599669/5a982d47-38a0-49f3-9d78-5f2038743f6b)# BreastCancerAI-DetectNet
+# BreastCancerAI-DetectNet
 
 ## Description
 BreastCancerAI-DetectNet is an AI-powered breast cancer detection algorithm that leverages the power of EANet (External Attention Transformer) for image classification. The goal of this project is to automatically identify whether a patient is suffering from breast cancer or not by analyzing biopsy images.
