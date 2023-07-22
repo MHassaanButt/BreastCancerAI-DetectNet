@@ -37,17 +37,6 @@ The classification report provides a comprehensive summary of various performanc
 accuracy                           0.92       500
 
 
-## Repository Contents
-- **src/**: This directory contains the source code for the BreastCancerAI-DetectNet algorithm.
-- **data/**: Placeholder for the dataset or instructions on how to download it.
-- **models/**: Trained models and model evaluation files.
-- **notebooks/**: Jupyter notebooks demonstrating data preprocessing, model training, and evaluation.
-- **requirements.txt**: A list of required Python packages to run the project.
-- **LICENSE**: The license under which this project is distributed.
-
-## Usage
-[Instructions on how to use the code and train the model should be included here.]
-
 ## Contributions
 Contributions to BreastCancerAI-DetectNet are welcome! If you have suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request.
 
@@ -56,7 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 By building BreastCancerAI-DetectNet, we aim to make a positive impact in the early detection of breast cancer, ultimately contributing to better patient outcomes and improved healthcare. We hope that this project will be a valuable resource for researchers and practitioners in the medical field. Let's work together to combat breast cancer with the power of AI!
-
-[Add any other relevant information or acknowledgments here.]
-
-[Insert your contact information or social media links if you wish.]
